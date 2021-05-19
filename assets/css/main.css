@@ -2591,14 +2591,22 @@ input, select, textarea {
 			}
 
 			.features li:nth-child(8) {
-				background-color: rgba(0, 0, 0, 0.28);
+				background-color: rgba(0, 0, 0, 0.26);
 			}
 
 			.features li:nth-child(9) {
-				background-color: rgba(0, 0, 0, 0.315);
+				background-color: rgba(0, 0, 0, 0.300);
 			}
 
 			.features li:nth-child(10) {
+				background-color: rgba(0, 0, 0, 0.315);
+			}
+
+			.features li:nth-child(11) {
+				background-color: rgba(0, 0, 0, 0.325);
+			}
+
+			.features li:nth-child(12) {
 				background-color: rgba(0, 0, 0, 0.35);
 			}
 
@@ -4044,8 +4052,8 @@ input, select, textarea {
 		}
 
 		.member-image{
-			height: 120px;
-			width: 120px;
+			height: 200px;
+			width: 200px;
 		}
 	}
 
@@ -4056,8 +4064,8 @@ input, select, textarea {
 		}
 
 		.member-image{
-			height: 80px;
-			width: 80px;
+			height: 150px;
+			width: 150px;
 		}
 	}
 
